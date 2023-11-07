@@ -2,7 +2,8 @@
 license: apache-2.0
 ---
 KAI-7B
-KAI 7B is an ai text generation chatbot based off of Mistral AI's Mistal 7B* model. KAI stands for Keynote Artificial Intelligence. Being based on such a powerful model, KAI outperforms its closest competetor, Meta-Llama 2, in all fields.
+KAI-7B is a fine-tuned version of Mistral-7b capable of better machine learning and adaptation. 
+KAI-7B is a very versatile model, outperforming its closest competetor, Meta-Llama 2, in all benchmarks.
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/6500c7c912c1442d994c36e5/NlD6l1BmU1qPjKpsHqkH2.png)
 
@@ -10,6 +11,4 @@ KAI 7B is an ai text generation chatbot based off of Mistral AI's Mistal 7B* mod
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/6500c7c912c1442d994c36e5/h-VxuQcOH_dy0dwDUiveS.png)
 
-As you can see, KAI 7b excells in STEM but needs work on Math and Coding. 
-
-*Mistral 7B is the best 7B model to date, and has been dubbed "the llama killer" due to it outperforming Meta's Llama-2-70b model
+As you can see in the benchmark above, KAI-7B excells in STEM but needs work in the Math and Coding fields. 
