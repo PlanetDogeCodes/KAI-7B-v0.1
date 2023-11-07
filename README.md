@@ -3,15 +3,6 @@ license: apache-2.0
 tags:
 - code
 - text-generation-inference
-widget:
-- text: "Is this review positive or negative? Review: Best cast iron skillet you will ever buy."
-  example_title: "Sentiment analysis"
-- text: "Barack Obama nominated Hilary Clinton as his secretary of state on Monday. He chose her because she had ..."
-  example_title: "Coreference resolution"
-- text: "On a shelf, there are five books: a gray book, a red book, a purple book, a blue book, and a black book ..."
-  example_title: "Logic puzzles"
-- text: "The two men running to become New York City's next mayor will face off in their first debate Wednesday night ..."
-  example_title: "Reading comprehension"
 ---
 KAI-7B
 KAI-7B is a fine-tuned version of Mistral-7b capable of better machine learning and adaptation. 
