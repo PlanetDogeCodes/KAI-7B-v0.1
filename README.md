@@ -6,6 +6,10 @@ KAI 7B is an ai text generation chatbot based off of Mistral AI's Mistal 7B* mod
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/6500c7c912c1442d994c36e5/NlD6l1BmU1qPjKpsHqkH2.png)
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/6500c7c912c1442d994c36e5/qw0p6nQSKRDqK8m08Zd64.png)
+
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/6500c7c912c1442d994c36e5/h-VxuQcOH_dy0dwDUiveS.png)
+
+As you can see, KAI 7b excells in STEM but needs work on Math and Coding. 
 
 *Mistral 7B is the best 7B model to date, and has been dubbed "the llama killer" due to it outperforming Meta's Llama-2-70b model
