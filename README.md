@@ -16,6 +16,6 @@ KAI-7B is a very versatile model, outperforming its closest competetor, Meta-Lla
 
 As you can see in the benchmark above, KAI-7B excells in STEM but needs work in the Math and Coding fields.
 
-Notice
+## Notice
 Mistral 7B is a pretrained base model and therefore does not have any moderation mechanisms.
 
