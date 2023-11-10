@@ -6,6 +6,19 @@ tags:
 - pretrained
 language:
 - en
+widget:
+  - text: "The ice caps are meling and"
+    output:
+      text: "The arctic ice is now at its lowest point on record. The ice is becoming thinner and weaker. When the ice breaks up in summer the currents will be able to flow more easily from the Atlantic and the Gulf of Mexico and the Mediterranean into the arctic and then on into the Pacific.
+
+ The Atlantic will warm and the Pacific will cool. The jet stream will move north and the weather systems will become more violent.
+
+ This is a big problem. The climate system is complex and we are feeling the effects of the climate change caused by the burning of fossil fuels.
+
+ If we do not get the world to the Paris climate agreement then we will not be able to stop the arctic from collapsing and the world from warming up.
+
+ We need to get the world to the Paris climate agreement."
+ 
 pipeline_tag: text-generation
 ---
 KAI-7B
