@@ -4,6 +4,9 @@ tags:
 - code
 - text-generation-inference
 - pretrained
+datasets:
+- Keynote-Technology/PLANE-2K
+- togethercomputer/RedPajama-Data-V2
 language:
 - en
 widget:
