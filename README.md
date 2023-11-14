@@ -28,7 +28,7 @@ KAI-7B
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/6500c7c912c1442d994c36e5/NlD6l1BmU1qPjKpsHqkH2.png)
 
-KAI-7B Large Language Model (LLM) is a fine-tuned generative text model based on Mistral 7B. With over 7 billion parameters, KAI-7B outperforms its closest competetor, Meta-Llama 2 7b, in all benchmarks we tested.
+KAI-7B Large Language Model (LLM) is a fine-tuned generative text model based on Mistral 7B. With over 7 billion parameters, KAI-7B outperforms its closest competetor, Meta-Llama 2 70b, in all benchmarks we tested.
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/6500c7c912c1442d994c36e5/GXbBTTDrAnfSdrOOfyVx-.png)
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/6500c7c912c1442d994c36e5/pHvVcd4SXqdziwPkPncqb.png)
